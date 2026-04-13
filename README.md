@@ -69,7 +69,6 @@ sudo ./paymenter-installer.sh --update-self
 
 ## 👨‍💻 Author
 Frode Røste
-Røste Consulting
 
 ## 📄 License
 MIT
