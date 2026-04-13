@@ -48,7 +48,7 @@ INSTALL_SSL="false"
 NON_INTERACTIVE="false"
 
 # Set this to your raw script URL if you want self-update
-SELF_UPDATE_URL="https://raw.githubusercontent.com/frode81/paymenter-install-script/refs/heads/main/payment_installer.sh"
+SELF_UPDATE_URL="https://raw.githubusercontent.com/frode81/paymenter-install-script/refs/heads/main/paymenter_installer.sh"
 
 RED='\033[0;31m'
 GREEN='\033[0;32m'
