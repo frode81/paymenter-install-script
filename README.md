@@ -30,7 +30,7 @@ This script installs and configures a complete Paymenter environment on a fresh 
 ## 🚀 Quick Start
 
 ```bash
-curl -O https://your-repo-url/paymenter-installer.sh
+curl -O https://raw.githubusercontent.com/frode81/paymenter-install-script/refs/heads/main/payment_installer.sh
 chmod +x paymenter-installer.sh
 sudo ./paymenter-installer.sh --domain panel.example.com --ssl --email admin@example.com
 ```
